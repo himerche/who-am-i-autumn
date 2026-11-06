@@ -1,0 +1,29 @@
+{
+  "name": "Who Am I? Autumn",
+  "short_name": "Who Am I?",
+  "description": "Autumn vocabulary guessing game · Juego de vocabulario de otoño",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1f140d",
+  "theme_color": "#1f140d",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icono-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icono-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icono-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
